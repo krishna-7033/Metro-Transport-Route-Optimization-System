@@ -1,0 +1,6 @@
+# source|destination|distance_km|travel_time_minutes
+JUIT Gate|Solan|4.5|10
+Solan|Shimla|42.0|75
+Solan|Chandigarh|65.0|90
+Chandigarh|Kalka|35.0|50
+Kalka|Parwanoo|7.0|12

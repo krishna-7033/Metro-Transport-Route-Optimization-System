@@ -1,0 +1,8 @@
+# Fictional sample network for the Metro/Transport Route Optimization System.
+# One station name per line.
+JUIT Gate
+Solan
+Shimla
+Chandigarh
+Kalka
+Parwanoo
